@@ -1,0 +1,14 @@
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+    width: 100%;
+}
+
+input {
+    width: 250px;
+    height: 35px;
+    padding: 8px 15px;
+}
